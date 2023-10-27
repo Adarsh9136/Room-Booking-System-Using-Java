@@ -19,6 +19,18 @@ Welcome to the Hotel The Taj Room Booking System, a Java Swing application for m
 2. Select the start date and end date for your booking.
 3. Click the "Book Room" button to make a booking.
 
+## Tech Stack
+
+This project was built using the following technologies and tools:
+
+- **Java**: The core programming language for developing the application.
+
+- **Swing**: The Java Swing framework was used to create the graphical user interface (GUI).
+
+- **Integrated Development Environment (IDE)**: An IDE such as Eclipse, IntelliJ IDEA, or NetBeans was used for Java development.
+
+Feel free to modify and expand this section to include specific libraries, frameworks, or other tools that you used in your project. This information helps other developers understand the technology stack you employed.
+
 ## Author
 
 - Adarsh Kashyap
