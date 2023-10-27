@@ -11,7 +11,7 @@ Welcome to the Hotel The Taj Room Booking System, a Java Swing application for m
 
 ## Screenshot
 
-![Dashboard](snapshot/Dashboard.PNG)
+![Dashboard](snapshot/Dashboard.png)
 
 ## How to Use
 
